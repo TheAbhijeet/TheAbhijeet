@@ -9,3 +9,4 @@
 
 - 💬 Ask me about **Python, Django, Web Development**
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabhijeet&show_icons=true&locale=en" alt="theabhijeet" /></p>
