@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abhijeet pal</h1>
 <h3 align="center">A software developer from Kolkata, India</h3>
 
+## 👨‍💻 About me
+I am driven by the need to create impactful solutions to add more value to the internet in every way possible.
+
 - 🔭 I’m currently working as a full time Software developer
 
 - 🌱 I made and maintain [djangocentral](https://djangocentral.com/)
 
 - 💬 Ask me about **Python, Django, Web Development**
 
-## You can find me on:
+## 📫 How to reach me:
 
 - My website: [djangocentral](https://djangocentral.com/)
 - Twitter as [@iam__abhijeet_](https://twitter.com/iam__abhijeet_)
 - [LinkedIn](https://www.linkedin.com/in/iam-abhijeet-pal/)
 
 
-## My latest blog posts
+## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Making Django Admin Jazzy With django-jazzmin](http://djangocentral.com/making-django-admin-jazzy-with-django-jazzmin/)
