@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijeet pal</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A software developer from Kolkata, India</h3>
 
-- 🔭 I’m currently working as a Software Engineer in Kolkata, India
+- 🔭 I’m currently working as a full time Software developer
 
-- 🌱 I’m currently exploring Django and Python
-
-- 👯 I’m looking to collaborate on awesome Open source projects
+- 🌱 I made and maintain https://djangocentral.com/
 
 - 💬 Ask me about **Python, Django, Web Development**
+
+## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Making Django Admin Jazzy With django-jazzmin](http://djangocentral.com/making-django-admin-jazzy-with-django-jazzmin/)
