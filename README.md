@@ -2,7 +2,7 @@
 
 I am Abhijeet pal, A software developer from Kolkata, India 🇮🇳
 
-I love building efficient solutions for tedious problems with Python, I am driven by the need to create impactful solutions to add more value to the internet in every way possible.
+I love building efficient solutions for tedious problems with Python I am driven by the need to create impactful solutions that add value to the internet in any way possible.
 
 
 - 🔭 I’m currently working as a full-time Software developer
