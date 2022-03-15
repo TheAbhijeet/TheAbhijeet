@@ -9,3 +9,5 @@
 
 - 💬 Ask me about **Python, Django, Web Development**
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
