@@ -3,9 +3,16 @@
 
 - 🔭 I’m currently working as a full time Software developer
 
-- 🌱 I made and maintain https://djangocentral.com/
+- 🌱 I made and maintain [djangocentral](https://djangocentral.com/)
 
 - 💬 Ask me about **Python, Django, Web Development**
+
+## You can find me on:
+
+- My website: [djangocentral](https://djangocentral.com/)
+- Twitter as [@iam__abhijeet_](https://twitter.com/iam__abhijeet_)
+- [LinkedIn](https://www.linkedin.com/in/iam-abhijeet-pal/)
+
 
 ## My latest blog posts
 
