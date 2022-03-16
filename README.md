@@ -11,7 +11,7 @@ I love building efficient solutions for tedious problems with Python I am driven
 
 - 🌏 I'm mostly active within the **Django Community**
 
-- 💬 Ping me about **Python, Django, System design, Docker, Web Development**
+- 💬 Ping me about **Python, Django, System Design, Docker, Web Development**
 - ⚡ When not fuzzing with code I like to play melodies in bansuri
 
 ## 🛠️ Languages and Tools
