@@ -28,11 +28,11 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom Exception in Django Rest Framework](http://djangocentral.com/creating-custom-exception-in-django-rest-framework/)
+- [How To Create Custom Context Processors in Django](http://djangocentral.com/how-to-create-custom-context-processors-in-django/)
+- [Django Authentication using an Email Address](http://djangocentral.com/authentication-using-an-email-address/)
 - [Django 4.1 adds async-compatible interface to QuerySet](http://djangocentral.com/django-adds-async-compatible-interface-to-queryset/)
 - [Making Django Admin Jazzy With django-jazzmin](http://djangocentral.com/making-django-admin-jazzy-with-django-jazzmin/)
-- [We finally switched from WordPress to Django](http://djangocentral.com/switched-from-wordpress-to-django/)
-- [Find Missing Number in a given Array Using Python](http://djangocentral.com/find-missing-number-in-an-array-using-python/)
-- [Creating NumPy Arrays](http://djangocentral.com/creating-numpy-arrays/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=TheAbhijeet&style=flat-square)
