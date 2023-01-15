@@ -28,11 +28,11 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Exception in Django Rest Framework](http://djangocentral.com/creating-custom-exception-in-django-rest-framework/)
-- [How To Create Custom Context Processors in Django](http://djangocentral.com/how-to-create-custom-context-processors-in-django/)
-- [Django Authentication using an Email Address](http://djangocentral.com/authentication-using-an-email-address/)
-- [Django 4.1 adds async-compatible interface to QuerySet](http://djangocentral.com/django-adds-async-compatible-interface-to-queryset/)
-- [Making Django Admin Jazzy With django-jazzmin](http://djangocentral.com/making-django-admin-jazzy-with-django-jazzmin/)
+- [Capturing Query Parameters of request.get in Django](http://djangocentral.com/capturing-query-parameters-of-requestget-in-django/)
+- [Understanding related_name in Django Models](http://djangocentral.com/understanding-related-name-in-django-models/)
+- [How to Revert the Last Migration in Django](http://djangocentral.com/how-to-revert-the-last-migration-in-django/)
+- [How to Iterate Over Rows in a Dataframe in Pandas](http://djangocentral.com/how-to-iterate-over-rows-in-a-dataframe-in-pandas/)
+- [How to Check if a File Exists With Python](http://djangocentral.com/how-to-check-if-a-file-exists-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=TheAbhijeet&style=flat-square)
