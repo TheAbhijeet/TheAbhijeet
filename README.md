@@ -32,11 +32,11 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Read a Text File in Python with Examples](http://djangocentral.com/how-to-read-a-text-file-in-python/)
+- [How to Add ads.txt to Your Django Project: Boost Ad Revenue with Simple Implementation](http://djangocentral.com/how-to-add-adstxt-to-your-django-project-boost-ad-revenue-with-simple-implementation/)
 - [Flask vs Django: Selecting the Perfect Python Web Framework](http://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/)
 - [Capturing Query Parameters of request.get in Django](http://djangocentral.com/capturing-query-parameters-of-requestget-in-django/)
 - [Understanding related_name in Django Models](http://djangocentral.com/understanding-related-name-in-django-models/)
-- [How to Revert the Last Migration in Django](http://djangocentral.com/how-to-revert-the-last-migration-in-django/)
-- [How to Iterate Over Rows in a Dataframe in Pandas](http://djangocentral.com/how-to-iterate-over-rows-in-a-dataframe-in-pandas/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=TheAbhijeet&style=flat-square)
