@@ -32,11 +32,11 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Celery with Django for Asynchronous and Periodic Tasks : A Comprehensive Guide](http://djangocentral.com/how-to-use-celery-with-django/)
 - [Understanding the &#39;F&#39; Expression in Django: When and Why to Use It](http://djangocentral.com/f-expression-in-django/)
 - [How to Create an Empty Migration File in Django](http://djangocentral.com/creating-an-empty-migration-file-in-django/)
 - [How to Read a Text File in Python with Examples](http://djangocentral.com/how-to-read-a-text-file-in-python/)
 - [How to Add ads.txt to Your Django Project: Boost Ad Revenue with Simple Implementation](http://djangocentral.com/how-to-add-adstxt-to-your-django-project-boost-ad-revenue-with-simple-implementation/)
-- [Flask vs Django: Selecting the Perfect Python Web Framework](http://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=TheAbhijeet&style=flat-square)
