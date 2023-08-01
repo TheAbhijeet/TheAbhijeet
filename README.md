@@ -32,11 +32,11 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Perform NOT Queries in Django ORM](http://djangocentral.com/how-to-perform-not-queries-in-django-orm/)
+- [How to Perform OR Queries in Django ORM](http://djangocentral.com/how-to-perform-or-queries-in-django-orm/)
+- [How to Perform AND Queries in Django ORM](http://djangocentral.com/how-to-perform-and-queries-in-django-orm/)
 - [Django ORM Cheatsheet: Mastering Database Operations in Django](http://djangocentral.com/django-orm-cheatsheet/)
 - [How to Use @action Decorator in Django Rest Framework](http://djangocentral.com/how-to-use-action-decorator-in-django-rest-framework/)
-- [How to Use Celery with Django for Asynchronous and Periodic Tasks : A Comprehensive Guide](http://djangocentral.com/how-to-use-celery-with-django/)
-- [Understanding the &#39;F&#39; Expression in Django: When and Why to Use It](http://djangocentral.com/f-expression-in-django/)
-- [How to Create an Empty Migration File in Django](http://djangocentral.com/creating-an-empty-migration-file-in-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=TheAbhijeet&style=flat-square)
