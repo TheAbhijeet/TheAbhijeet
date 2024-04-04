@@ -21,7 +21,6 @@ I love building efficient solutions for tedious problems with Python I am driven
 ## 📫 How to reach me
 
 - My website: [djangocentral](https://djangocentral.com/)
-- [LinkedIn](https://www.linkedin.com/in/iam-abhijeet-pal/)
 
 
 ## 📝 My latest blog posts
