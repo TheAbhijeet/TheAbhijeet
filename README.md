@@ -1,6 +1,6 @@
-<h1 align="center">Namaste 🙏</h1>
+<h1 align="center">Hey there!</h1>
 
-I am Abhijeet pal, A software developer from Kolkata, India 🇮🇳
+I am Abhijeet pal, 
 
 I love building efficient solutions for tedious problems with Python I am driven by the need to create impactful solutions that add value to the internet in any way possible.
 
